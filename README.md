@@ -42,7 +42,6 @@ autonomous-research-agent/
 
 ├── README.md # This file
 
-text
 
 ## 🔧 Setup and Installation
 
